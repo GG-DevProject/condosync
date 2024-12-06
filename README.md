@@ -4,7 +4,7 @@
 
 ```bash
 condosync/
-|
+│
 ├── backend/                # API e lógica do back-end
 │   ├── app.py              # Flask app principal
 │   ├── config.py           # Configuração do MySQL e Flask
@@ -13,7 +13,7 @@ condosync/
 │   │   ├── residents.py    # Rotas para moradores
 │   │   ├── events.py       # Rotas para eventos do Calendar
 │   │   └── projects.py     # Rotas para o Gantt Chart
-|   |
+│   │
 │   └── requirements.txt    # Dependências Python
 │
 ├── frontend/               # Aplicação front-end com Syncfusion
