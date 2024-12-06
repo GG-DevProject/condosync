@@ -1,5 +1,8 @@
 # condosync
 
+- Estrutura do Projeto
+
+```bash
 condosync/
 |
 ├── backend/                # API e lógica do back-end
@@ -31,3 +34,6 @@ condosync/
 │
 ├── index.html              # Página de inicialização
 └── README.md               # Documentação do projeto
+```
+
+---
