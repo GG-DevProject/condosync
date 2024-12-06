@@ -1,5 +1,3 @@
----
-
 # condosync
 
 - Estrutura do Projeto
